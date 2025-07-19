@@ -6,3 +6,4 @@ const char* formasPagamento[] = {
 	"Cartão de Crédito",
 	"PIX"
 };
+

@@ -384,3 +384,4 @@ char pagarPedido(int numPedido, float valorTotal) {
 
     return escolha;
 }
+

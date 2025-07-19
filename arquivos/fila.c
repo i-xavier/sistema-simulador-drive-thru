@@ -97,3 +97,4 @@ void exibirFila(FILA* fi) {
     printf("\n\nPressione qualquer tecla para voltar ao menu...");
     getch();
 }
+
