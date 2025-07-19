@@ -1,2 +1,17 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+* text=auto eol=lf
+
+# Tipos de texto comuns em projetos C
+*.sh text eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+
+# Arquivos binários: não alterar final de linha
+*.exe binary
+*.png binary
+*.jpg binary
+*.gif binary
+*.zip binary
+*.dat binary
