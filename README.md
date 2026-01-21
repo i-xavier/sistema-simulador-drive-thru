@@ -15,7 +15,7 @@ Este projeto foi criado como exercício prático de lógica de programação e m
 Funcionalidades:
 Criar e gerenciar comandas, realizar pagamentos com diferentes métodos, salvar e carregar dados de pedidos
 
-Tecnologias usadas:
+Ferramentas utilizadas:
 Linguagem C ANSI, Terminal/CLI e Manipulação de arquivos 
 
 Autor:
